@@ -21,7 +21,6 @@ cp contrib/env-sample .env
 python manage.py test
 ```
 
-
 ## Como fazer o deploy?
 
 1. Crie uma instancia no heroku
